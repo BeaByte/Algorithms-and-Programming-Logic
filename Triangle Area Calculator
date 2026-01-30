@@ -1,0 +1,13 @@
+algoritmo "Triangle Area Calculator"
+var
+   base: real
+   altura: real
+   resultado: real
+inicio
+   escreval("Informe o valor da base:")
+   leia(base)
+   escreval("Informe o valor da altura:")
+   leia(altura)
+   resultado <- base * altura / 2
+   escreval("O resultado é:", resultado)
+fimalgoritmo
