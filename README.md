@@ -23,6 +23,7 @@ Ela é muito usada em cursos introdutórios de programação.
 Exemplo de organização:
 
 / Programming in Portugol
+
     Arithmetic operators
     First Program
     ...
