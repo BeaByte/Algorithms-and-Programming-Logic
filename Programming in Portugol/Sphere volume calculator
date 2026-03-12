@@ -1,0 +1,13 @@
+algoritmo "calculo volume de uma esfera de raio R"
+
+var
+  r, V : real
+  
+
+inicio
+escreva("Informe o raio:")
+leia(r)
+V <- (4 * pi * r * r * r) / 3
+escreva("O volume da esfera é:", V)
+ 
+fimalgoritmo
