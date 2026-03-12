@@ -1,4 +1,4 @@
-algoritmo "calculo volume de uma esfera de raio R"
+algoritmo "Price adjustament calculator"
 
 var
   v1, v2, r1, r2: real
