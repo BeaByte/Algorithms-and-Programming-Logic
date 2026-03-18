@@ -14,10 +14,10 @@ inicio
   escreval("4 - Realizar saques")
   escreval("************************************")
   escreval("Digite a opção desejada:")
-  
+
   leia(opcao)
   limpatela
-  
+
   escolha opcao
     caso 1
       escreval("************************************")
