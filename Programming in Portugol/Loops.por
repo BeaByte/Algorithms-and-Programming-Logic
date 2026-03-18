@@ -1,10 +1,10 @@
 algoritmo "Loops"
 
 var
- cont : inteiro
+  cont : inteiro
 
 inicio
-  cont <- 0 
+  cont <- 0
   enquanto cont < 5 faca
     escreval("bom dia")
     cont <- cont + 1
