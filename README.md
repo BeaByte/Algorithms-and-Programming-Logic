@@ -1,40 +1,65 @@
-**📚 Programação Inicial em Portugol**
+# 📚 Initial Programming in Portugol
 
-Este repositório/pasta contém exercícios e exemplos básicos desenvolvidos em **Portugol**, com o objetivo de aprender os fundamentos da programação.
+Welcome to this repository! 🚀
 
-**🎯 Objetivo**
+This folder contains basic exercises and examples developed in **Portugol**, created for learning programming fundamentals and logical thinking.
 
-Praticar conceitos iniciais de lógica de programação utilizando Portugol, como:
+---
 
-* Entrada e saída de dados
-* Variáveis
-* Operadores matemáticos
-* Estruturas condicionais (`se`, `senão`)
-* Estruturas de repetição (`enquanto`, `para`)
-* Algoritmos básicos
+## 🎯 Objective
 
-**🧠 Sobre o Portugol**
+The main goal of this project is to practice introductory programming concepts, including:
 
-Portugol é uma linguagem **didática**, criada para facilitar o aprendizado de lógica de programação utilizando comandos em português.
-Ela é muito usada em cursos introdutórios de programação.
+* 📥 Data input and output
+* 🔢 Variables
+* ➕ Mathematical operators
+* 🔀 Conditional structures (`if`, `else`)
+* 🔁 Loop structures (`while`, `for`)
+* 🧩 Basic algorithms
 
-**📂 Estrutura da pasta**
+This repository helps strengthen logical reasoning and problem-solving skills.
 
-Exemplo de organização:
+---
 
-/ Programming in Portugol
+## 🧠 About Portugol
 
-    Arithmetic operators
-    First Program
-    ...
+Portugol is a **didactic programming language** designed to help beginners learn programming logic using commands written in Portuguese.
 
-**▶️ Como executar**
+It is commonly used in introductory programming courses because it simplifies the learning process before moving to languages like C, Java, or Python.
 
-Você pode executar os algoritmos utilizando ferramentas como:
+---
 
-* Visualg
-* Portugol Studio
+## 📂 Folder Structure
 
-**✍️ Autor**
+Example organization:
 
-Material criado para estudo e prática de **lógica de programação**.
+```
+Programming in Portugol/
+│
+├── Arithmetic Operators
+├── First Program
+├── Conditional Structures
+├── Loop Structures
+└── Other Exercises
+```
+
+---
+
+## ▶️ How to Run the Programs
+
+You can execute the algorithms using:
+
+* **Visualg**
+* **Portugol Studio**
+
+Simply open the file and run the code inside one of these tools.
+
+---
+
+## ✍️ Author
+
+This material was created for studying and practicing **programming logic**.
+
+---
+
+⭐ Feel free to explore the exercises and use them for learning purposes!
