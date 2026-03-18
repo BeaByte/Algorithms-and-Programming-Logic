@@ -1,0 +1,17 @@
+algoritmo "Price adjustament calculator"
+
+var
+  v1, v2, r1, r2: real
+
+inicio
+  escreval("Informe o primeiro valor:")
+  leia(v1)
+  escreval("Informe o segundo valor:")
+  leia(v2)
+
+  r1 <- v1 +v1 * 30/100
+  r2 <- v2 - v2 * 25/100
+
+  escreval("resulta 1:", r1)
+  escreval("resulta 2:", r2)
+fimalgoritmo
