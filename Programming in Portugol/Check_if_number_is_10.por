@@ -8,7 +8,7 @@ inicio
   escreval("Digite um número:")
   leia(n)
   se n = 10 entao
-   escreva("Parabéns!")
+    escreva("Parabéns!")
   fimse
 
 fimalgoritmo
