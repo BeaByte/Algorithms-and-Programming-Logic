@@ -1,10 +1,10 @@
 algoritmo "Loops 3- repita ate"
 
 var
- cont : inteiro
+  cont : inteiro
 
 inicio
-  cont <- 0 
+  cont <- 0
   repita
     escreval("Olá", cont)
     cont <- cont + 1
