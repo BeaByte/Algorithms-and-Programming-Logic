@@ -1,0 +1,13 @@
+algoritmo "saudação"
+
+var
+  nome : caractere
+
+inicio
+  escreval(" Qual o seu nome?")
+  leia(nome)
+  escreval(nome, " você teria um minuto para falar comigo?")
+
+
+
+fimalgoritmo
