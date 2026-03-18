@@ -1,0 +1,19 @@
+algoritmo "Ses encadeados"
+
+var
+n : inteiro
+
+inicio
+escreval("Digite um numero:")
+leia (n)
+se n > 0 entao
+  escreval("Positivo")
+senao
+  se n < 0 entao
+    escreval("Negativo")
+senao
+    escreval("Zero")
+  fimse
+fimse
+
+fimalgoritmo
